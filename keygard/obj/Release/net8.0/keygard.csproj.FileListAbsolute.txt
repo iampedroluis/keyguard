@@ -1,0 +1,14 @@
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\bin\Release\net8.0\keygard.exe
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\bin\Release\net8.0\keygard.deps.json
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\bin\Release\net8.0\keygard.runtimeconfig.json
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\bin\Release\net8.0\keygard.dll
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\bin\Release\net8.0\keygard.pdb
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\obj\Release\net8.0\keygard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\obj\Release\net8.0\keygard.AssemblyInfoInputs.cache
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\obj\Release\net8.0\keygard.AssemblyInfo.cs
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\obj\Release\net8.0\keygard.csproj.CoreCompileInputs.cache
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\obj\Release\net8.0\keygard.dll
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\obj\Release\net8.0\refint\keygard.dll
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\obj\Release\net8.0\keygard.pdb
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\obj\Release\net8.0\keygard.genruntimeconfig.cache
+C:\Users\zevet\OneDrive\Escritorio\zevetrus\keygard\keygard\obj\Release\net8.0\ref\keygard.dll

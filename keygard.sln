@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keygard", "keygard\keygard.csproj", "{906A2894-3C8F-46A1-88B6-70DD5510B70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906A2894-3C8F-46A1-88B6-70DD5510B70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906A2894-3C8F-46A1-88B6-70DD5510B70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906A2894-3C8F-46A1-88B6-70DD5510B70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906A2894-3C8F-46A1-88B6-70DD5510B70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC812E8-CD44-4670-9838-40AD8A968361}
+	EndGlobalSection
+EndGlobal
